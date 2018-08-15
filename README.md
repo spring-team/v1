@@ -4,7 +4,7 @@ This project contains an Atomist seed project for a Spring Boot REST service.
 You can edit this project freely, with Atomist generators capable of
 turning it into a clean, customized project.
 
-This project builds and runs. To run it, type
+This project builds and runs. To run it, type 
 
 ```
 $ ./mvnw spring-boot:run -DATOMIST_TEAM=<your Atomist team id>
